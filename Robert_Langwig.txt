@@ -20,3 +20,5 @@ Goals:
 1. Learn something new everyday
 2. Relax more during trying times.
 3. Learn Java 
+4. More stuff
+5. less stuff
